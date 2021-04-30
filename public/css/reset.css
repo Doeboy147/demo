@@ -1,0 +1,13 @@
+.card {
+    border-radius: 0 !important;
+}
+.form-control {
+    border-radius: 0 !important;
+}
+.btn {
+    border-radius: 0 !important;
+}
+a ,a:hover {
+    text-decoration: none;
+    color: black;
+}
